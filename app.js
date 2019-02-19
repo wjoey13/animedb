@@ -9,3 +9,7 @@ const bodyParser = require('body-parser');
 app.listen(port, () => {
     console.log(`want to know what port is active? It's port ${port}`);
 });
+
+app.get('/',(req,res)=>{
+    
+})
