@@ -103,57 +103,51 @@ exports.seed = function(knex, Promise) {
         },
         {
           title:'Sword Art Online',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Adventure, Isekai, Science Fiction',
+          description:'The continuation of Sword Art Online. This continuation focuses on the Gun Gale Online arc, otherwise known as GGO. Kirito receives a call from a government worker who wants Kirito to investigate a player named Death Gun. This player appears to have the ability to kill players in real life, by simply shooting them in game.',
+          cover:'https://img1.ak.crunchyroll.com/i/spire3/defc9dc5865e0be33eb3b0326abf28361547765748_full.jpg'
         },
         {
           title:'Dragon Ball Z',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Adventure, Comedy, Fantasy',
+          description:'Goku as a young adult and father to his son, Gohan. techniques, before being revived by the Dragon Balls a year later in order to save the Earth from Raditz\' comrades; Nappa and the Saiyan prince Vegeta.',
+          cover:'https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/de/e7/4e/dee74e5e-ab20-27c7-3559-009de0ce2054/contsched.lvcdlefi.jpg/268x0w.jpg'
         },
         {
           title:'Naruto Shippuden',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Adventure, Comedy, Fantasy',
+          description:'A giant, powerful fox known as the Nine-Tails attacks the ninja village Konoha, killing many people. In response, the leader of Konoha – the Fourth Hokage – seals the fox inside the newborn Naruto Uzumaki at the cost of his life.',
+          cover:'https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg'
         },
         {
           title:'Attack on Titan',
-          genre:'',
-          description:'',
-          cover:''
-        },
-        {
-          title:'Fullmetal Alchemist: Brotherhood',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Adventure, Dark Fantasy, Post-Apocalyptic',
+          description:'2000 years from now, the human race is nearly exterminated by mindless, man-eating giants known as Titans. In a last ditch attempt to live, a small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of Titans. Flash forward to the present and the city has not seen a titan in over 100 years having a century of uneasy peace. But the walls of the city cannot hold forever.',
+          cover:'https://img1.ak.crunchyroll.com/i/spire1/78916dd5588a8ff3cd244e5deca7aa781532559376_full.jpg'
         },
         {
           title:'Dragon Ball',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Adventure, Fantasy, Martial Arts',
+          description:'The series begins with a young monkey-tailed boy named Goku befriending a teenage girl named Bulma. Together they go on a quest to find the seven Dragon Balls (ドラゴンボール), which summons the dragon Shenron to grant the user one wish. The journey leads to a confrontation with the shape-shifting pig Oolong, as well as a desert bandit named Yamcha and his companion Pu\'ar, with all later becoming allies; Chi-Chi, whom Goku unknowingly agrees to marry; and Pilaf, an impish man who seeks the Dragon Balls to fulfill his desire to rule the world.',
+          cover:'https://i.kym-cdn.com/photos/images/newsfeed/000/968/841/40f.jpg'
         },
         {
           title:'Pokemon',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Action, Adventure, Fantasy',
+          description:'After he turns 10 years old, Ash Ketchum (Satoshi in Japan) is allowed to start his journey in the world of Pokémon and dreams of becoming a Pokémon master. On the day he is to receive his first Pokémon, Ash wakes in a panic, having overslept. Professor Oak, the local Pokémon researcher, has already given away the three Pokémon (Bulbasaur, Charmander and Squirtle) he entrusts to new Pokémon Trainers when Ash finally reaches Oak\'s Lab. The only Pokémon that he has left is a Pikachu, which he gives to Ash. Determined to make it on his journey, Ash does his best to befriend Pikachu, but it does not trust him and will not even return to its Poké Ball, even attacking Ash with its electric powers. It is only after Ash protects Pikachu from a group of angry Spearow that Pikachu realizes how much Ash cares, leading it to save Ash. Afterwards, they both see a mysterious and unidentifiable Pokémon that spurs both of them to work towards Ash\'s goal.',
+          cover:'https://pm1.narvii.com/5704/a6a76aa96bf867de495a5913e069a85f96dee32f_hq.jpg'
         },
         {
           title:'Future Diary',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Mystery, Psychological Thriller, Romance',
+          description:'Yukiteru Amano is a 14-year-old shy, daydreaming loner who observes life and jots down the events on his cell phone. His only friends are Deus Ex Machina, the God of Space and Time, and his assistant Muru Muru. Deus transforms Yukiteru\'s phone into a Future Diary, capable of predicting the future up to ninety days.',
+          cover:'https://img1.ak.crunchyroll.com/i/spire1/a92f8892593612e33d141f248095813d1494542978_full.jpg'
         },
         {
           title:'Death Note',
-          genre:'',
-          description:'',
-          cover:''
+          genre:'Mystery, Supernatural, Thriller',
+          description:'In Tokyo, an intelligent yet disaffected high-school student named Light Yagami finds the "Death Note", a mysterious black notebook which can kill anyone as long as the user knows both the target\'s name and face. After verifying that the notebook works and initially being terrified of its god-like abilities, Light begins to consider the possibilities of the Death Note\'s abilities and sets out to create a utopian world without crime, killing numerous high-profile Japanese criminals, before eventually targeting international law-offenders around the world. Eventually, Light is visited by Ryuk, a Japanese god of death and the Death Note\'s previous owner, who dropped the notebook into the human world out of boredom. Ryuk, who is invisible to anyone who has not touched the Death Note, is amused by Light\'s actions and serves as Light\'s companion.',
+          cover:'https://cdn.europosters.eu/image/750/posters/death-note-from-the-shadows-i58005.jpg'
         }
       ]);
     });
