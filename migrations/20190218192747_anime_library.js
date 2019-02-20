@@ -1,6 +1,7 @@
 
 exports.up = function(knex, Promise) {
-  return knex.schema.createTable('anime_library',(list) => {
+  return knex.schema.createTable('anime_library',(library) => {
+      
 
   })
 };
